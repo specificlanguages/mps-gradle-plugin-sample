@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/solutions/com.mbeddr.mpsutil.traceExplorer.build/com.mbeddr.mpsutil.traceExplorer.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.mbeddr.mpsutil.traceExplorer/com.mbeddr.mpsutil.traceExplorer.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

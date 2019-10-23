@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/com.mbeddr.mpsutil.interpreter/com.mbeddr.mpsutil.interpreter.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/com.mbeddr.mpsutil.interpreter/runtime/com.mbeddr.mpsutil.interpreter.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.mbeddr.mpsutil.interpreter.build/com.mbeddr.mpsutil.interpreter.build.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
