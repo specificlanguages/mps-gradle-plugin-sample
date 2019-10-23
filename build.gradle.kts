@@ -1,11 +1,3 @@
-buildscript {
-    repositories {
-        mavenLocal()
-        maven(url = "https://projects.itemis.de/nexus/content/repositories/mbeddr")
-        jcenter()
-    }
-}
-
 allprojects {
     group = "com.mbeddr.platform.mpsutil"
     version = "exp.2019.1"
